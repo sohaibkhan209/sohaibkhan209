@@ -34,9 +34,9 @@ I graduated with a **BS in Computer Science** from **UET Peshawar (2024)** and c
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/sohaibkhan209](#) *(Replace with actual URL)*  
-- **Email**: [sohaib.akhund209@gmail.com](mailto:sohaib.akhund209@gmail.com) *(Replace with actual email)*  
-- **GitHub**: [github.com/sohaibkhan209](#) *(Replace with actual URL)*
+- **LinkedIn**: [linkedin.com/in/sohaibkhan209](#)
+- **Email**: [sohaib.akhund209@gmail.com](mailto:sohaib.akhund209@gmail.com)
+- **GitHub**: [github.com/sohaibkhan209](#)
 
 ---
 
